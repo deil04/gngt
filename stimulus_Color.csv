@@ -1,0 +1,6 @@
+color,condition,correct
+greencircle.png,go,space
+redcircle.png,nogo,none
+greencircle.png,go,space
+greencircle.png,go,space
+redcircle.png,nogo,none
